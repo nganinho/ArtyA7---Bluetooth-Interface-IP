@@ -5,7 +5,6 @@ https://reference.digilentinc.com/reference/pmod/pmodbt2/reference-manual
 
 
 IP Specification and Status of implementation
-
 Build the bluetooth control IP ( non-processor version )
 1. RX mode (Slave mode)
  - Receive the package which is transfered by HC05 from smartphone
@@ -28,6 +27,6 @@ Build the bluetooth control IP ( non-processor version )
  - Change the password (default: 1234)
 
 5. Applications (Not yet)
- - Robot
- - IO control (LED, Lamp, another process)
- - MP3
+ - Robot control
+ - IO control (LED, Lamp, another purpose)
+ - MP3 player (with additional hardware needed)
