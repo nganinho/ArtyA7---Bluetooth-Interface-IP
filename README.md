@@ -10,10 +10,10 @@ https://reference.digilentinc.com/reference/pmod/pmodbt2/reference-manual
 - Decode the control of data and perform specific actions.
 
 1.2 TX : Not yet
-    - Transfer data to HC05
+- Transfer data to HC05
  
- 1.3 IP control and interface
-    - AXI interface with processor
-    - Internal register to define operation options.
-    - AXI interface with processor
-    - Internal register to define operation options.
+1.3 IP control and interface
+- AXI interface with processor
+- Internal register to define operation options.
+- AXI interface with processor
+- Internal register to define operation options.
