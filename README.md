@@ -3,7 +3,7 @@ https://reference.digilentinc.com/_media/pmod:pmod:pmodBT2_rm.pdf
 
 https://reference.digilentinc.com/reference/pmod/pmodbt2/reference-manual
 
-1. build the bluetooth control ( non-processor version )
+Build the bluetooth control ( non-processor version )
 
 1.1 RX done. (Slave mode)
 - Receive the package which is transfered by HC05 from smartphone. 
