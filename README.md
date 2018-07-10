@@ -4,7 +4,8 @@ https://reference.digilentinc.com/_media/pmod:pmod:pmodBT2_rm.pdf
 https://reference.digilentinc.com/reference/pmod/pmodbt2/reference-manual
 
 
-IP Specification and Status of implementation:
+IP Specification and Status of implementation
+
 Build the bluetooth control IP ( non-processor version )
 1. RX mode (Slave mode)
  - Receive the package which is transfered by HC05 from smartphone
