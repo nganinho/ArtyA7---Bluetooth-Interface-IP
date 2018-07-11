@@ -1,10 +1,10 @@
 # bluetooth-interface-ip
-Reference Documents:
+## Reference Documents:
 https://reference.digilentinc.com/_media/pmod:pmod:pmodBT2_rm.pdf 
 https://reference.digilentinc.com/reference/pmod/pmodbt2/reference-manual
 
-Specification:
-Build the bluetooth control IP ( non-processor version )
+# Specification:
+## Build the bluetooth control IP ( non-processor version )
 1. RX mode (Slave mode)
  - Receive the package which is transfered by HC05 from smartphone
  - Decode the control of data and perform specific actions
@@ -32,6 +32,3 @@ Build the bluetooth control IP ( non-processor version )
  - MP3 player (with additional hardware needed)
 
 -----------------------------------------------------------------------
-
-
-
