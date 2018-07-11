@@ -1,8 +1,8 @@
-# BLUETOOTH INTERFACE IP
+# Bluetooth Interface IP
 ## Reference Documents:
 https://reference.digilentinc.com/_media/pmod:pmod:pmodBT2_rm.pdf 
 https://reference.digilentinc.com/reference/pmod/pmodbt2/reference-manual
-
+----
 # Specification
 ## Build the bluetooth control IP ( non-processor version )
 ### 1. RX mode (Slave mode)
